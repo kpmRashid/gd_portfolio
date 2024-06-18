@@ -1,0 +1,33 @@
+body{
+  background-color: #173142;
+}
+
+button {
+  background-color: #8BCFB7 ;
+  border: none;
+  color: #173142;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font: 600;
+  border-radius: 8rem;
+  padding: 20px 30px;
+  cursor: pointer;
+  
+}
+
+button:hover{
+  background-color: #b0ffe4;
+}
+a{
+  text-decoration: none;
+  
+}
+.portfolio {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
